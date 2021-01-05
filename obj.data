@@ -1,0 +1,5 @@
+classes= 1
+train  = /content/bohlebots/train.txt
+valid  = /content/bohlebots/test.txt
+names = /content/bohlebots/obj.names
+backup = backup/
