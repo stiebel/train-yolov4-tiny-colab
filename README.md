@@ -5,7 +5,7 @@ This colab is mostly based on yolo4v-tiny: https://github.com/luxonis/depthai-ml
 
 I divided this excellent colab into two devisions to seperate training from converting.
 
-# this is the training part
+# This is the training part
 
 You do not have to edit any files, make the changes within the colab.
 Start the training by pressing the colab button.
