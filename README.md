@@ -7,4 +7,5 @@ I divided this excellent colab into two devisions to seperate training from conv
 
 # this is the training part
 
-start the training by pressing the Colab button
+You do not have to edit any files, make the changes within the colab.
+Start the training by pressing the colab button.
